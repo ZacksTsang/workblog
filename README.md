@@ -10,7 +10,7 @@ workblog
 
 ## 一些技巧
 - 如何将 iOS 上的 `*.string` 资源文件转成 Android 上的 `string.xml` 资源？
-  * 使用 Python 语言可以快速实现这一功能，详情请查看 file2xml.py
+  * 使用 Python 语言可以快速实现这一功能，具体实现请查看 [file2xml.py](https://github.com/ZacksTsang/workblog/blob/master/tools/python/iosfile2androidxml/file2xml.py)文件
 
 - 使用说明
   * 在该文件的目录下，将 iOS 的资源文件拷贝到此目录下，运行以下命令即可
